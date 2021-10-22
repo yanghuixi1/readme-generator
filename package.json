@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Automatically generate professional READMEs from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanghuixi1/readme-generator.git"
+  },
+  "author": "Yanghui Xi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanghuixi1/readme-generator/issues"
+  },
+  "homepage": "https://github.com/yanghuixi1/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
