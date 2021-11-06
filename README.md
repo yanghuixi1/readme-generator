@@ -21,3 +21,5 @@ Run `npm index` and then follow the step-by-step instructions at the command lin
 ## Questions
 Check out my [GitHub profile](https://github.com/yanghuixi1)!
 If you have any questions or concerns, feel free to email me at <yanghui.xi1@gmail.com>
+## Walkthrough Video
+https://drive.google.com/file/d/1YA_TBAKpDj6Lqve2duRKTp95sgcKAcqH/view?usp=sharing
